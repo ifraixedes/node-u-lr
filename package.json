@@ -8,6 +8,10 @@
   },
   "author": "Ivan Fraixedes <ivan@fraixed.es> (http://ivan.fraixed.es)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ifraixedes/node-u-lr"
+  },
   "keywords": [
     "livereload",
     "development"
