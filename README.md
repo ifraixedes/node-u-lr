@@ -1,4 +1,4 @@
-Server Side LiveReload Server
+Micro LiveReload Server
 =============================
 
 It works, README will be written soon.
