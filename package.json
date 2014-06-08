@@ -1,6 +1,6 @@
 {
   "name": "u-lr",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Micro LiveReload is a micro websocket server that send an event to reload your browser whenever you call notifyReload from an instance of the exported Server class",
   "main": "lib/index.js",
   "scripts": {
