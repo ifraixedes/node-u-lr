@@ -1,13 +1,17 @@
 {
-  "name": "sslr",
+  "name": "u-lr",
   "version": "0.0.0",
-  "description": "Server Side LiveReload is a tiny websocket server that send an event to reload your browser whenever you call notifyReload from an instance of the exported Server class",
+  "description": "Micro LiveReload is a micro websocket server that send an event to reload your browser whenever you call notifyReload from an instance of the exported Server class",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ivan Fraixedes <ivan@fraixed.es> (http://ivan.fraixed.es)",
   "license": "MIT",
+  "keywords": [
+    "livereload",
+    "development"
+  ],
   "dependencies": {
     "debug": "^1.0.1",
     "engine.io": "^1.2.2",
