@@ -50,5 +50,9 @@ The mentioned route, send a [browserify](https://github.com/substack/node-browse
 
 When the exported function is called, a client websocket connection is stablished and a `message` event listener is registered, which reload the page whenever a message is received.
 
+### Examples
+
+Check the [examples directory](https://github.com/ifraixedes/node-u-lr/tree/master/examples)
+
 ##License
 Just MIT, read LICENSE file for more information.
