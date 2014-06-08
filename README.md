@@ -1,6 +1,6 @@
 Micro LiveReload Server
 =============================
-![Downloads](http://img.shields.io/npm/dm/u-lr.svg)  ![Dependencies status](https://david-dm.org/ifraixedes/node-u-lr.png) [![MIT Licensed](http://img.shields.io/badge/license-MIT-blue.svg)](#license)
+[ ![Downloads](http://img.shields.io/npm/dm/u-lr.svg)]()  [ ![Dependencies status](https://david-dm.org/ifraixedes/node-u-lr.png)]() [ ![MIT Licensed](http://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
 Micro Live Reload server is a websocket server which delivers a message whenever `notifyReload` server instance method is called; the only purpose of it is as a development tool.
 
